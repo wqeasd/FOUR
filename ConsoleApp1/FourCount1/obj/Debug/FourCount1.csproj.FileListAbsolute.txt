@@ -1,0 +1,6 @@
+E:\3-19\ConsoleApp1\FourCount1\bin\Debug\FourCount1.dll
+E:\3-19\ConsoleApp1\FourCount1\bin\Debug\FourCount1.pdb
+E:\3-19\ConsoleApp1\FourCount1\obj\Debug\FourCount1.csprojAssemblyReference.cache
+E:\3-19\ConsoleApp1\FourCount1\obj\Debug\FourCount1.csproj.CoreCompileInputs.cache
+E:\3-19\ConsoleApp1\FourCount1\obj\Debug\FourCount1.dll
+E:\3-19\ConsoleApp1\FourCount1\obj\Debug\FourCount1.pdb
